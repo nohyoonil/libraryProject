@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.group.libraryapp.JunitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-19T05:44:30" hostname="MacBookPro.local" time="0.0">
+<testsuite name="com.group.libraryapp.JunitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-19T06:14:37" hostname="MacBookPro.local" time="0.0">
   <properties/>
   <testcase name="test1()" classname="com.group.libraryapp.JunitTest" time="0.0"/>
   <system-out><![CDATA[init
